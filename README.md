@@ -1,0 +1,2 @@
+# SZU_DRCOM_SHELL
+极致简单的深大宿舍区宽带上网认证shell脚本
